@@ -15,6 +15,10 @@ export default {
     {
       text: 'Blog',
       url: '/blog/'
+    },
+    {
+      text: 'Tags',
+      url: '/tags/'
     }
   ],
   bottom: [
@@ -33,11 +37,6 @@ export default {
     {
       text: 'Accessibility',
       url: '/accessibility/'
-    }
-,
-    {
-      text: 'Tags',
-      url: '/tags/'
     }    
   ]
 };
