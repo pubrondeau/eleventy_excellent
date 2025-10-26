@@ -1,0 +1,5 @@
+<custom-lightbulb>
+  <button aria-label="Switch theme" aria-pressed="false">
+    <custom-svg aria-hidden="true" src="./src/assets/svg/misc/lightbulb.svg"></custom-svg>
+  </button>
+</custom-lightbulb>
