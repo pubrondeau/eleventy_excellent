@@ -9,4 +9,9 @@
     </a>
     {% include "partials/main-nav.njk" %}
   </div>
+	<custom-lightbulb></custom-lightbulb>
+	<script>{% getBundle "js", "theme" %}</script>
+	{%- js "theme" %}
+	{% include "scripts/custom-lightbulb-inline.js" %}
+	{% endjs %}
 </header>
