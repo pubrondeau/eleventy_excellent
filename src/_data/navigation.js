@@ -34,5 +34,10 @@ export default {
       text: 'Accessibility',
       url: '/accessibility/'
     }
+,
+    {
+      text: 'Tags',
+      url: '/tags/'
+    }    
   ]
 };
