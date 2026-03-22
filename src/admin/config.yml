@@ -79,7 +79,7 @@ collections:
     extension: "yml"
     format: "yml"
     files:
-      - file: "_data/settings.yml"
+      - file: "src/_data/settings.yml"
         label: "Site Settings"
         name: "site"
         fields:
