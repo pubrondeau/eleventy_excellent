@@ -12,7 +12,7 @@ backend:
   branch: master
 
 # The folder used to store uploaded images
-media_folder: "assets/img"
+media_folder: "src/assets/img"
 
 # The CMS collections and their fields
 collections:
